@@ -1,9 +1,9 @@
 package main
 
 import (
-	printdemo "github.com/mvn-anhhoang3-hn/demo"
+	"github.com/mvn-anhhoang3-hn/newlib"
 )
 
 func main() {
-	printdemo.Printx()
+	newlib.Log()
 }
